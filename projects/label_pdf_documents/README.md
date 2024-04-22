@@ -1,7 +1,8 @@
 # Labeling of pdf documents
 ## Repositories used
-- https://github.com/Belval/pdf2image
-- https://github.com/HumanSignal/label-studio
+- arXiv grabber/downloader: https://github.com/titipata/arxivpy
+- PDF 2 image: https://github.com/Belval/pdf2image
+- Open-Source labeling tool: https://github.com/HumanSignal/label-studio
 
 ## Influential Papers
 - https://arxiv.org/pdf/2206.01062.pdf
