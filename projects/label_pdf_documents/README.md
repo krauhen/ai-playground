@@ -1,4 +1,7 @@
 # Labeling of pdf documents
+## Preview
+![preview](https://github.com/krauhen/ai-playground/assets/167354464/bb485230-e1fd-476a-a00e-4eae0d39dd4f)
+
 ## Repositories used
 - arXiv grabber/downloader: https://github.com/titipata/arxivpy
 - PDF 2 image: https://github.com/Belval/pdf2image
