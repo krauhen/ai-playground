@@ -1,0 +1,7 @@
+label-studio
+pdf2image
+jupyterlab
+numpy
+matplotlib
+scikit-learn
+opencv-python
