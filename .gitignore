@@ -1,3 +1,7 @@
+projects/label_pdf_documents/data/pdfs
+projects/label_pdf_documents/data/images
+projects/label_pdf_documents/data/labels
+projects/label_pdf_documents/dependencies
 mlartifacts
 mlruns
 
