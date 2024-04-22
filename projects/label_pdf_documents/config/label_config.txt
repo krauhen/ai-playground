@@ -1,0 +1,11 @@
+<View>
+  <RectangleLabels name="labels" toName="image">
+    <Label value="Text" />
+    <Label value="List" />
+    <Label value="Picture" />
+    <Label value="Header" />
+    <Label value="Table" />
+    <Label value="Caption" />
+  </RectangleLabels>
+  <Image name="image" value="$image" />
+</View>
