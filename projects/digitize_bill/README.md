@@ -1,5 +1,5 @@
 # Digitize bills from lunch to hand in as meal reimbursement
-A little experiment of going through the process of digitizin bills from labeling to automatic digitizing with AI.
+A little experiment of going through the process of digitizing bills from labeling to automatic digitizing with AI.
 ## Preview
 ![2024-04-22 11 43 51](https://github.com/krauhen/ai-playground/assets/167354464/9c2f1e86-ba18-4068-8385-bc99cce918f7)
 ## Self-build labeling UI build with gradio
