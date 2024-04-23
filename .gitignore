@@ -4,6 +4,7 @@ projects/label_pdf_documents/data/labels
 projects/label_pdf_documents/dependencies
 projects/digitize_bill/data/images/*.jpg
 projects/digitize_bill/data/patches/*.jpg
+projects/digitize_bill/data/*.pth
 mlartifacts
 mlruns
 
