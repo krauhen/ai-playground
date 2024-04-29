@@ -12,4 +12,5 @@
 - Document GPT-2 to make it comprehensible.
 
 # Ideas
-- 
+- OCR: Optical Character Recognition
+- (S)MoE: Mixture of Experts with (sparsely-)gated networks: ![Source1](https://github.com/lucidrains/mixture-of-experts/tree/master) ![Source2](https://arxiv.org/abs/1701.06538)
