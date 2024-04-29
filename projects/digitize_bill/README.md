@@ -7,3 +7,15 @@ A little experiment of going through the process of digitizing bills from labeli
 ## Intermediate result
 ![Screenshot from 2024-04-23 20-04-38](https://github.com/krauhen/ai-playground/assets/167354464/03625385-1ed8-47f0-bea5-40d5235efdcd)
 
+# Setup
+## Install environments
+```shell
+$ python -m venv venv
+$ source venv/bin/activate
+$ pip install -r requirements.txt
+```
+## Start jupyterlab and mlflow
+```shell
+$ jupyterlab --port 9999 $
+$ mlflow server --host 127.0.0.1 --port 8080 $
+```
