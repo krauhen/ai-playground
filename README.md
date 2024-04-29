@@ -18,16 +18,3 @@
 ### Projects
 - Build git repository with separated server/locations for code base and large file objects: ![Source](https://docs.github.com/en/enterprise-server@3.10/admin/managing-accounts-and-repositories/managing-repositories-in-your-enterprise/configuring-git-large-file-storage-for-your-enterprise)
 - Build Knowledge Graph with library to manage/document learnings
-
-# Setup
-## Install environments
-```shell
-$ python -m venv venv
-$ source venv/bin/activate
-$ pip install -r requirements.txt
-```
-## Start jupyterlab and mlflow
-```shell
-$ jupyterlab --port 9999 $
-$ mlflow server --host 127.0.0.1 --port 8080 $
-```
