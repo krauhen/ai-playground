@@ -1,7 +1,15 @@
 # A collection of AI things i play with.
-## LLMs
-## Stabel diffusion
-## AutoEncoder
+## Topics
+### => AutoEncoder
+### => LLMs
+### => Stable Diffusion
+
+## Reproduce stuff seen somewhere else
+### => ORPO: Odds Ratio Preference Optimization (Community post on huggingface)
+
+## Projects
+### => ![Digitizing Bills](https://github.com/krauhen/ai-playground/blob/main/projects/digitize_bill/README.md)
+### => ![Label PDF Documents](https://github.com/krauhen/ai-playground/blob/main/projects/label_pdf_documents/README.md)
 
 # Setup
 ## Install environments
