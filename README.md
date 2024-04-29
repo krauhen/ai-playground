@@ -13,7 +13,7 @@
 - OCR: (Basic) Optical Character Recognition
 ### :small_orange_diamond: Projects
 - Build git repository with separated server/locations for code base and large file objects: ![Source](https://docs.github.com/en/enterprise-server@3.10/admin/managing-accounts-and-repositories/managing-repositories-in-your-enterprise/configuring-git-large-file-storage-for-your-enterprise)
-- Build Knowledge Graph with library to manage/document learnings
+- Build Knowledge Graph with library to manage/document learnings: ![Source](https://graph-tool.skewed.de/static/doc/quickstart.html)
 
 ## :arrow_forward: Reproduce stuff (seen somewhere else)
 ### :small_orange_diamond: ORPO: Odds Ratio Preference Optimization (Community post on huggingface)
