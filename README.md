@@ -1,17 +1,19 @@
-# A collection of AI things i play with.
-## LLMs
-## Stabel diffusion
-## AutoEncoder
+# :white_circle: A collection of AI things i work on :white_circle:
+## :arrow_forward: Topics
+### :small_orange_diamond: AutoEncoder
+### :small_orange_diamond: LLMs
+### :small_orange_diamond: Stable Diffusion
 
-# Setup
-## Install environments
-```shell
-$ python -m venv venv
-$ source venv/bin/activate
-$ pip install -r requirements.txt
-```
-## Start jupyterlab and mlflow
-```shell
-$ jupyterlab --port 9999 $
-$ mlflow server --host 127.0.0.1 --port 8080 $
-```
+## :arrow_forward: Projects
+### :small_orange_diamond: ![Digitizing Bills](https://github.com/krauhen/ai-playground/blob/main/projects/digitize_bill/README.md)
+### :small_orange_diamond: ![Label PDF Documents](https://github.com/krauhen/ai-playground/blob/main/projects/label_pdf_documents/README.md)
+
+## :arrow_forward: Next
+### :small_orange_diamond: Topics
+- OCR: (Basic) Optical Character Recognition
+### :small_orange_diamond: Projects
+- Build git repository with separated server/locations for code base and large file objects: ![Source](https://docs.github.com/en/enterprise-server@3.10/admin/managing-accounts-and-repositories/managing-repositories-in-your-enterprise/configuring-git-large-file-storage-for-your-enterprise)
+- Build Knowledge Graph with library to manage/document learnings: ![Source](https://graph-tool.skewed.de/static/doc/quickstart.html)
+
+## :arrow_forward: Reproduce stuff (seen somewhere else)
+### :small_orange_diamond: ORPO: Odds Ratio Preference Optimization (Community post on huggingface)

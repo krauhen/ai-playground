@@ -11,3 +11,16 @@
 - https://arxiv.org/pdf/2206.01062.pdf
 - https://arxiv.org/pdf/1706.02337.pdf
 - https://dl.acm.org/doi/pdf/10.1145/3219819.3219834
+
+# Setup
+## Install environments
+```shell
+$ python -m venv venv
+$ source venv/bin/activate
+$ pip install -r requirements.txt
+```
+## Start jupyterlab and mlflow
+```shell
+$ jupyterlab --port 9999 $
+$ mlflow server --host 127.0.0.1 --port 8080 $
+```
